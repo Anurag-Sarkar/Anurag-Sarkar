@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sheryians Coding School<br>=🌱 I’m currently learning React Native<br>💬 Ask me about MERN<br>⚡ Fun fact Coding is like a superpower to create anything out of your mind
+🔭 I’m currently working on Sheryians Coding School<br>🌱 I’m currently learning React Native<br>💬 Ask me about MERN<br>⚡ Fun fact Coding is like a superpower to create anything out of your mind
 
 
 # 💻 Tech Stack:
